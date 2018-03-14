@@ -1,12 +1,16 @@
 .img {
   float: right;
   width: 25%;
+  padding: 10px;
 }
 
 .shows {
   float: left;
   background-color: black;
   color: white;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 8px;
 }
 
 h1 {
