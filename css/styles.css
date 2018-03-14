@@ -1,9 +1,14 @@
 .img {
   float: right;
+  width: 25%;
 }
 
 .shows {
-  float: right;
+  float: left;
   background-color: black;
   color: white;
+}
+
+h1 {
+  text-align: center;
 }
